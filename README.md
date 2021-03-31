@@ -1,9 +1,17 @@
-# docker-backend
+# docker-backend-pure
 
 ## Usage
 
 Clone the project and then:
-```sh
-cd docker-backend
-docker-compose up --build
 ```
+$ cd docker-backend-pure
+$ docker-compose up --build
+```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Credits
+
+My thanks to the developers of the [Docker](https://www.docker.com/company).
